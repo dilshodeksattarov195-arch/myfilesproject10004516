@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfync",
+        "uuid": 39709188,
+        "checksum": "wefycx"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
